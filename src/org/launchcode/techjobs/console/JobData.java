@@ -122,7 +122,7 @@ public class JobData {
             e.printStackTrace();
         }
     }
-//*This is comment
+
     public static ArrayList<HashMap<String, String>> findByValue(String value) {
 
         // load data, if not already loaded
